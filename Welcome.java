@@ -1,7 +1,7 @@
 class Welcome{
 //Bug Fix-100
 public void hi(){\
-  hi peers!!!!!!
+  hi peers!!!!!!!
 //logic 
 }
 }
