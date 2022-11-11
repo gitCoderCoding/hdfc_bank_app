@@ -3,6 +3,7 @@ class Welcome{
 public void hi(){\
    "welcome to badrachalam"//bug 102
 "welcome to badrachalam by rohit"//bug 103
+"Rama"
   hi peers!!!!!!!
 //logic 
 }
